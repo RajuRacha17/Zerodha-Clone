@@ -64,7 +64,7 @@ Live Market Data
 
 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Prateek45-git/Zerodha-clone.git
+git clone https://github.com/RajuRacha17/Zerodha-clone.git
 
 
 2️⃣ Install backend dependencies
@@ -109,6 +109,6 @@ Feel free to fork this repository or raise an issue.
 
 🔗 Author
 
-Prateek Chauragade
+Raju Racha
 Aspiring Full-Stack Developer
 📩 Open to internships and entry-level roles
